@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketthitte&label=Profile%20views&color=0e75b6&style=flat" alt="aniketthitte" /> </p>
 
-- 🔭 I’m currently working on Power BI [HR Analytics](Ajj)
+- 🔭 I’m currently Searching job of [Data Analyst,Business Analyst, Power Bi developer] 
 
 - 🌱 I’m currently learning **Data Analystics and Data Science**
 
