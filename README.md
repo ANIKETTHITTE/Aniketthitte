@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Data Analystics and Data Science**
 
-- 👯 I’m looking to collaborate on [Z](S)
-
-- 🤝 I’m looking for help with [S](S)
+- 🤝 I’m looking for help with [Data Analysis Jobs and Opportunities ]
 
 - 👨‍💻 All of my projects are available at [Sag](Sag)
 
