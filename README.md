@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **thitteaniket@gmail.com**
 
-- Know about my Learning Certificate [Bha](https://drive.google.com/drive/folders/17-Cpm8qOj-TwI4G8tIkp2iglT35NuQaj) 
+- Know about my Learning Certificate [ https://drive.google.com/drive/folders/17-Cpm8qOj-TwI4G8tIkp2iglT35NuQaj ]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
