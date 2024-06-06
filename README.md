@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Sag](Sag)
 
-- 💬 Ask me about **S**
+- Knowledge about **SQL,Python, Power Bi, MS Excel, Visualisation, Dax **
 
 - 📫 How to reach me **thitteaniket@gmail.com**
 
