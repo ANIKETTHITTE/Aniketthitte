@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with [Data Analysis Jobs and Opportunities ]
 
-- 👨‍💻 All of my projects are available at [Sag](Sag)
-
 - Knowledge about **SQL,Python, Power Bi, MS Excel, Visualisation, Dax **
 
 - 📫 How to reach me **thitteaniket@gmail.com**
